@@ -1,0 +1,31 @@
+{
+  "name": "ng_gulp",
+  "version": "0.0.0",
+  "description": "AngularJS with Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/z-bit/ng_gulp.git"
+  },
+  "keywords": [
+    "angularjs",
+    "gulp"
+  ],
+  "author": "Guenther",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/z-bit/ng_gulp/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-load-plugins": "~1.1.0",
+    "del": "~2.2.0",
+    "event-stream": "~3.3.2",
+    "main-bower-files": "~2.9.0",
+    "gulp-print": "~2.0.1",
+    "q": "~1.4.1"
+  }
+}
